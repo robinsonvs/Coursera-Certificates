@@ -1,1 +1,1 @@
-# [Parallel, Concurrent, and Distributed Programming in Java Specialization by Coursera](https://www.coursera.org/specializations/pcdp)_
+# [Parallel, Concurrent, and Distributed Programming in Java Specialization by Coursera](https://www.coursera.org/specializations/pcdp)
